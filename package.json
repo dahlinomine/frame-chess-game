@@ -1,0 +1,14 @@
+{
+  "name": "frame-chess-game",
+  "version": "0.1.0",
+  "description": "Play async chess against friends via Farcaster Frames",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
